@@ -1,0 +1,13 @@
+{
+  "name": "e2e_playwright_odd_conf24",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Godsila-ODT/e2e_playwright_odd_conf24.git",
+  "author": "Godsila <acgodsleeper@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "@playwright/test": "^1.49.0",
+    "@types/node": "^22.9.3"
+  },
+  "scripts": {}
+}
